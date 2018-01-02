@@ -1,0 +1,16 @@
+## Altium generated file
+/History
+/Project\ Outputs*
+/*.SchDocPreview
+/*.HarnessPreview
+/*.PcbDocPreview
+/*.TopPreview
+/*.PrjPcbStructure
+/*.PcbDoc.htm
+/*.PcbLib.htm
+/*.rep
+/*.csv
+
+## Others
+/.dropbox
+/*.ini
